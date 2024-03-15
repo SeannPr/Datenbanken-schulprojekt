@@ -1,1 +1,1 @@
-Online Biliothek zum ausleihen von Büchern.
+Online Bibliothek zum ausleihen von Büchern.
